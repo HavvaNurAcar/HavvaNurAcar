@@ -1,6 +1,15 @@
 ![Gif Başlığı](https://cdn.dribbble.com/users/416610/screenshots/4801105/media/0f73533e44c089e41c3290d4535491ad.gif)
+![](https://komarev.com/ghpvc/?username=CagatayAkkas&color=blue)
+<div align="center">
+ <a href="https://github.com/CagatayAkkas">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=f0 9f 90 b1+Çaylak+Yazılımcı+f0 9f 90 be;%f0%9f%93%9a+Cyber+Security+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" />
+ </a>
+</div>
+
 <h1 align="center">Hi 👋, I'm Havva Nur</h1>
 <h3 align="center"> cyber software developer</h3>
+
+<img src=https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gifalt="Coding" width=200 height=200 align="right">
 
 - 🔭 I’m currently working on **python**
 
