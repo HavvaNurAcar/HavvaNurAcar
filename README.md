@@ -9,7 +9,7 @@
 <h1 align="center">Hi 👋, I'm Havva Nur</h1>
 <h3 align="center"> cyber software developer</h3>
 
-<img src=https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gifalt="Coding" width=200 height=200 align="right">
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="200" height="200" align="right">
 
 - 🔭 I’m currently working on **python**
 
