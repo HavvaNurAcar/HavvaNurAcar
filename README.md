@@ -1,6 +1,6 @@
 ![Gif Başlığı](https://cdn.dribbble.com/users/416610/screenshots/4801105/media/0f73533e44c089e41c3290d4535491ad.gif)
 <h1 align="center">Hi 👋, I'm Havva Nur</h1>
-<h3 align="center">rookie cyber software developer</h3>
+<h3 align="center"> cyber software developer</h3>
 
 - 🔭 I’m currently working on **python**
 
